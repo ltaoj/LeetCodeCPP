@@ -23,7 +23,7 @@
 20. [palindrome-partitioning](https://github.com/ltaoj/LeetCodeCPP/blob/master/palindrome-partitioning.cpp)
 21. [surrounded-regions](https://github.com/ltaoj/LeetCodeCPP/blob/master/surrounded-regions.cpp)
 22. [sum-root-to-leaf-numbers](https://github.com/ltaoj/LeetCodeCPP/blob/master/sum-root-to-leaf-numbers.cpp)
-23. []()
+23. [longest-consecutive-sequence](https://github.com/ltaoj/LeetCodeCPP/blob/master/LongestConsecutiveSequence.java)
 24. []()
 25. []()
 26. [valid-palindrome](https://github.com/ltaoj/LeetCodeCPP/blob/master/valid-palindrome.cpp)
