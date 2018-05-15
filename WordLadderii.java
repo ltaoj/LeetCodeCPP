@@ -140,16 +140,15 @@ public class WordLadderii {
         if (neightbors != null && neightbors.contains(start)) {
             tempPath.add(0, start);
             result.add(new ArrayList<>(tempPath));
-
-            String realEnd = tempPath.getLast();
-            tempPath.clear();
-            tempPath.add(realEnd);
+            tempPath.removeFirst();
             return;
         }
 
         for (String neighbor : neightbors) {
             resolve(start, neighbor, path);
+            tempPath.removeFirst();
         }
+
     }
 
     /**
@@ -248,15 +247,18 @@ public class WordLadderii {
 
     public static void main(String[] args) {
         WordLadderii demo = new WordLadderii();
-        String start = "hit";
-        String end = "cog";
+        String start = "red";
+        String end = "tax";
 
         HashSet<String> dict = new HashSet<>();
-        dict.add("hot");
-        dict.add("dot");
-        dict.add("dog");
-        dict.add("lot");
-        dict.add("log");
+        dict.add("ted");
+        dict.add("tex");
+        dict.add("red");
+        dict.add("tax");
+        dict.add("tad");
+        dict.add("den");
+        dict.add("rex");
+        dict.add("pee");
 
         long startTime = System.currentTimeMillis();
         ArrayList<ArrayList<String>> res = demo.findLadders(start, end, dict);
