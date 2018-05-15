@@ -24,7 +24,6 @@
 21. [surrounded-regions](https://github.com/ltaoj/LeetCodeCPP/blob/master/surrounded-regions.cpp)
 22. [sum-root-to-leaf-numbers](https://github.com/ltaoj/LeetCodeCPP/blob/master/sum-root-to-leaf-numbers.cpp)
 23. [LongestConsecutiveSequence](https://github.com/ltaoj/LeetCodeCPP/blob/master/LongestConsecutiveSequence.java)
-24. [WordLadderii](https://github.com/ltaoj/LeetCodeCPP/blob/master/WordLadderii.java)
-24. [word-ladder-ii](https://github.com/ltaoj/LeetCodeCPP/blob/master/word-ladder-ii.cpp)
+24. [WordLadderii](https://github.com/ltaoj/LeetCodeCPP/blob/master/WordLadderii.java)、C++版本：[word-ladder-ii](https://github.com/ltaoj/LeetCodeCPP/blob/master/world-ladder-ii.cpp)
 25. []()
 26. [valid-palindrome](https://github.com/ltaoj/LeetCodeCPP/blob/master/valid-palindrome.cpp)
