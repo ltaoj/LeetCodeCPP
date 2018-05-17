@@ -27,3 +27,5 @@
 24. [WordLadderii](https://github.com/ltaoj/LeetCodeCPP/blob/master/WordLadderii.java)、C++版本：[word-ladder-ii](https://github.com/ltaoj/LeetCodeCPP/blob/master/world-ladder-ii.cpp)
 25. []()
 26. [valid-palindrome](https://github.com/ltaoj/LeetCodeCPP/blob/master/valid-palindrome.cpp)
+27. [binary-tree-maximum-path-sum](https://github.com/ltaoj/LeetCodeCPP/blob/master/binary-tree-maximum-path-sum.cpp)
+28. [best-time-to-buy-and-sell-stock-iii](https://github.com/ltaoj/LeetCodeCPP/blob/master/best-time-to-buy-and-sell-stock-iii.cpp)
