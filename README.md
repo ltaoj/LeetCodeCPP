@@ -29,3 +29,6 @@
 26. [valid-palindrome](https://github.com/ltaoj/LeetCodeCPP/blob/master/valid-palindrome.cpp)
 27. [binary-tree-maximum-path-sum](https://github.com/ltaoj/LeetCodeCPP/blob/master/binary-tree-maximum-path-sum.cpp)
 28. [best-time-to-buy-and-sell-stock-iii](https://github.com/ltaoj/LeetCodeCPP/blob/master/best-time-to-buy-and-sell-stock-iii.cpp)
+29. [best-time-to-buy-and-sell-stock-ii](https://github.com/ltaoj/LeetCodeCPP/blob/master/best-time-to-buy-and-sell-stock-ii.cpp)
+30. [best-time-to-buy-and-sell-stock](https://github.com/ltaoj/LeetCodeCPP/blob/master/best-time-to-buy-and-sell-stock.cpp)
+31. [triangle](https://github.com/ltaoj/LeetCodeCPP/blob/master/triangle.cpp)
