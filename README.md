@@ -41,3 +41,4 @@
 38. [path-sum](https://github.com/ltaoj/LeetCodeCPP/blob/master/path-sum.cpp)
 39. [balanced-binary-tree](https://github.com/ltaoj/LeetCodeCPP/blob/master/balanced-binary-tree.cpp)
 40. [convert-sorted-list-to-binary-search-tree](https://github.com/ltaoj/LeetCodeCPP/blob/master/convert-sorted-list-to-binary-search-tree.cpp)
+41. [convert-sorted-array-to-binary-search-tree](https://github.com/ltaoj/LeetCodeCPP/blob/master/convert-sorted-array-to-binary-search-tree.cpp)
