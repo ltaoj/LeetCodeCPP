@@ -38,3 +38,4 @@
 35. [populating-next-right-pointers-in-each-node](https://github.com/ltaoj/LeetCodeCPP/blob/master/populating-next-right-pointers-in-each-node.cpp)
 37. [path-sum-ii](https://github.com/ltaoj/LeetCodeCPP/blob/master/path-sum-ii.cpp)
 38. [path-sum](https://github.com/ltaoj/LeetCodeCPP/blob/master/path-sum.cpp)
+39. [balanced-binary-tree](https://github.com/ltaoj/LeetCodeCPP/blob/master/balanced-binary-tree.cpp)
