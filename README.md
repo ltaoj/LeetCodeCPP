@@ -1,5 +1,6 @@
 # LeetCodeCPP
-题目来自于牛客网在线编程模块leetcode经典编程题,下面是本人答案汇总：
+题目来自于牛客网在线编程模块leetcode经典编程题, 激励自己进行算法练习
+148道LeetCode数据结构算法经典在线编程题C++、Java实现
 
 1. [Minimum Depth of Binary Tree](https://github.com/ltaoj/LeetCodeCPP/blob/master/minimum-depth-of-binary-tree.cpp)
 2. [evaluate-reverse-polish-notation](https://github.com/ltaoj/LeetCodeCPP/blob/master/evaluate-reverse-polish-notation.cpp)
