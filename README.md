@@ -50,6 +50,6 @@
 47. [binary-tree-level-order-traversal](https://github.com/ltaoj/LeetCodeCPP/blob/master/binary-tree-level-order-traversal.cpp)
 48. [symmetric-tree](https://github.com/ltaoj/LeetCodeCPP/blob/master/symmetric-tree.cpp)
 49. [same-tree](https://github.com/ltaoj/LeetCodeCPP/blob/master/same-tree.cpp)
-50. [recover-binary-search-tree](https://github.com/ltaoj/LeetCodeCPP/blob/master/recover-binary-search-tree.cpp)
+50. [recover-binary-search-tree,hard](https://github.com/ltaoj/LeetCodeCPP/blob/master/recover-binary-search-tree.cpp)
 51. [validate-binary-search-tree](https://github.com/ltaoj/LeetCodeCPP/blob/master/validate-binary-search-tree.cpp)
 52. [interleaving-string](https://github.com/ltaoj/LeetCodeCPP/blob/master/interleaving-string.cpp)
